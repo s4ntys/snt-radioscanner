@@ -1,5 +1,5 @@
 # snt-radioscanner
-QBUS Radio scanner
+QB-Core Radio scanner
 
 
 in *config.lua* you can set the maximum scanning distance of radio waves
